@@ -1,4 +1,4 @@
 # BuildFirst
 This is my first repo.
 <br>
-Author- Shuham Kumar Singh
+Author- Shuham Kumar Singh(Tech)
